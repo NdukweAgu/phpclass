@@ -51,6 +51,16 @@
 						<th></th>
 					</tr>
 				</thead>
+				<thead>
+					<tr>
+						<th>Number</th>
+						<th>Title</th>
+						<th>Author</th>
+						<th>Description</th>
+						<th></th>
+						<th></th>
+					</tr>
+				</thead>
 				<tbody>
 					<?php
 					$c = 0;
