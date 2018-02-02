@@ -12,7 +12,7 @@
 	<title>CRUD System</title>
 	<link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css">
 </head>
-<body>
+<body style="background:red;">
 
 	<div class="container" style="padding-top: 20px; padding-bottom: 20px;">
 		<div class="col-md-6 col-md-offset-3">
@@ -43,7 +43,7 @@
 			<table class="table table-bordered table-hover">
 				<thead>
 					<tr>
-						<th>#</th>
+						<th>Number</th>
 						<th>Title</th>
 						<th>Author</th>
 						<th>Description</th>
