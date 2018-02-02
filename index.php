@@ -12,13 +12,13 @@
 	<title>CRUD System</title>
 	<link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css">
 </head>
-<body style="background:red;">
+<body style="background:white;">
 
 	<div class="container" style="padding-top: 20px; padding-bottom: 20px;">
 		<div class="col-md-6 col-md-offset-3">
 			<div class="panel panel-info">
 				<div class="panel-heading">
-					<h3>CRUD System</h3>
+					<h3>CRUD System with Git Demo</h3>
 				</div>
 				<div class="panel-body">
 					<form action="insert.php" method="post">
