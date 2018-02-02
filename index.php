@@ -18,7 +18,7 @@
 		<div class="col-md-6 col-md-offset-3">
 			<div class="panel panel-info">
 				<div class="panel-heading">
-					<h3>CRUD System</h3>
+					<h3>CRUD System Usman</h3>
 				</div>
 				<div class="panel-body">
 					<form action="insert.php" method="post">
@@ -43,7 +43,7 @@
 			<table class="table table-bordered table-hover">
 				<thead>
 					<tr>
-						<th>Number</th>
+						<th>Usman</th>
 						<th>Title</th>
 						<th>Author</th>
 						<th>Description</th>
